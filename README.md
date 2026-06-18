@@ -1,4 +1,5 @@
 Earth Orbital Simulation
+
 This project numerically and visually simulates Earth's orbit around the Sun on a graph using Newton's law of universal gravitation. The simulation models Earth's motion over time and displays the resulting orbit on a graph.
 This project utilizes Newton's law of universal gravitation, Newton's second law, and approximations using small time intervals.
 The simulation uses a loop to calculate the acceleration, an updated velocity, and an updated position repeatedly using a given time interval over a given number of steps.
