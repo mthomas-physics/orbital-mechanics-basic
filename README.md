@@ -7,6 +7,6 @@ The simulation uses a loop to calculate the acceleration, an updated velocity, a
 Through this project I learned to use Visual Studio Code for scientific programing, the basics of Git and Github, and how to break vectors into components using the unit vector.
 To improve this simullation in the future I can include simulating elliptical orbits and adding more planets to create an N-body problem.
 
-# Additional Investigation
-# Orbital Velocity Investigation
+Additional Investigation
+Orbital Velocity Investigation
 Investigated how changing the initial velocity affects orbital shape and escape trajectories.
